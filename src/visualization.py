@@ -50,3 +50,4 @@ def plot_macd(df, ticker):
     plt.legend()
     plt.grid()
     plt.show()
+    
