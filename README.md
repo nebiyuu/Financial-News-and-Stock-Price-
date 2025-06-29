@@ -47,7 +47,3 @@ The notebook includes:
 ## Continuous Integration
 
 Unit tests (if present) are run automatically via [GitHub Actions](.github/workflows/unittest.yml).
-
-## License
-
-[MIT](LICENSE) (add a LICENSE file if needed)
